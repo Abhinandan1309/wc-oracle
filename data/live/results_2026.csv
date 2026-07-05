@@ -1,0 +1,94 @@
+year,stage,group,date,home_team,away_team,home_score,away_score,played,source,winner
+2026,Matchday 1,Group A,2026-06-11,Mexico,South Africa,2.0,0.0,True,,
+2026,Matchday 1,Group A,2026-06-11,South Korea,Czech Republic,2.0,1.0,True,,
+2026,Matchday 8,Group A,2026-06-18,Mexico,South Korea,1.0,0.0,True,openfootball,
+2026,Matchday 14,Group A,2026-06-24,South Africa,South Korea,1.0,0.0,True,openfootball,
+2026,Matchday 2,Group B,2026-06-12,Canada,Bosnia & Herzegovina,1.0,1.0,True,,
+2026,Matchday 3,Group B,2026-06-13,Qatar,Switzerland,1.0,1.0,True,,
+2026,Matchday 8,Group B,2026-06-18,Canada,Qatar,6.0,0.0,True,openfootball,
+2026,Matchday 14,Group B,2026-06-24,Switzerland,Canada,2.0,1.0,True,openfootball,
+2026,Matchday 3,Group C,2026-06-13,Brazil,Morocco,1.0,1.0,True,,
+2026,Matchday 3,Group C,2026-06-13,Haiti,Scotland,0.0,1.0,True,,
+2026,Matchday 9,Group C,2026-06-19,Scotland,Morocco,0.0,1.0,True,openfootball,
+2026,Matchday 9,Group C,2026-06-19,Brazil,Haiti,3.0,0.0,True,openfootball,
+2026,Matchday 14,Group C,2026-06-24,Scotland,Brazil,0.0,3.0,True,openfootball,
+2026,Matchday 14,Group C,2026-06-24,Morocco,Haiti,4.0,2.0,True,openfootball,
+2026,Matchday 2,Group D,2026-06-12,USA,Paraguay,4.0,1.0,True,,
+2026,Matchday 3,Group D,2026-06-13,Australia,Turkey,2.0,0.0,True,,
+2026,Matchday 9,Group D,2026-06-19,USA,Australia,2.0,0.0,True,openfootball,
+2026,Matchday 9,Group D,2026-06-19,Turkey,Paraguay,0.0,1.0,True,openfootball,
+2026,Matchday 15,Group D,2026-06-25,Turkey,USA,3.0,2.0,True,openfootball,
+2026,Matchday 15,Group D,2026-06-25,Paraguay,Australia,0.0,0.0,True,openfootball,
+2026,Matchday 4,Group E,2026-06-14,Germany,Curaçao,7.0,1.0,True,,
+2026,Matchday 4,Group E,2026-06-14,Ivory Coast,Ecuador,1.0,0.0,True,,
+2026,Matchday 10,Group E,2026-06-20,Germany,Ivory Coast,2.0,1.0,True,openfootball,
+2026,Matchday 10,Group E,2026-06-20,Ecuador,Curaçao,0.0,0.0,True,openfootball,
+2026,Matchday 15,Group E,2026-06-25,Curaçao,Ivory Coast,0.0,2.0,True,openfootball,
+2026,Matchday 15,Group E,2026-06-25,Ecuador,Germany,2.0,1.0,True,openfootball,
+2026,Matchday 4,Group F,2026-06-14,Netherlands,Japan,2.0,2.0,True,,
+2026,Matchday 4,Group F,2026-06-14,Sweden,Tunisia,5.0,1.0,True,,
+2026,Matchday 10,Group F,2026-06-20,Netherlands,Sweden,5.0,1.0,True,openfootball,
+2026,Matchday 10,Group F,2026-06-20,Tunisia,Japan,0.0,4.0,True,openfootball,
+2026,Matchday 15,Group F,2026-06-25,Japan,Sweden,1.0,1.0,True,openfootball,
+2026,Matchday 15,Group F,2026-06-25,Tunisia,Netherlands,1.0,3.0,True,openfootball,
+2026,Matchday 5,Group G,2026-06-15,Belgium,Egypt,1.0,1.0,True,,
+2026,Matchday 5,Group G,2026-06-15,Iran,New Zealand,2.0,2.0,True,,
+2026,Matchday 11,Group G,2026-06-21,Belgium,Iran,0.0,0.0,True,openfootball,
+2026,Matchday 11,Group G,2026-06-21,New Zealand,Egypt,1.0,3.0,True,openfootball,
+2026,Matchday 16,Group G,2026-06-26,Egypt,Iran,1.0,1.0,True,openfootball,
+2026,Matchday 16,Group G,2026-06-26,New Zealand,Belgium,1.0,5.0,True,openfootball,
+2026,Matchday 5,Group H,2026-06-15,Spain,Cape Verde,0.0,0.0,True,,
+2026,Matchday 5,Group H,2026-06-15,Saudi Arabia,Uruguay,1.0,1.0,True,,
+2026,Matchday 11,Group H,2026-06-21,Spain,Saudi Arabia,4.0,0.0,True,openfootball,
+2026,Matchday 16,Group H,2026-06-26,Uruguay,Spain,0.0,1.0,True,openfootball,
+2026,Matchday 6,Group I,2026-06-16,France,Senegal,3.0,1.0,True,openfootball,
+2026,Matchday 6,Group I,2026-06-16,Iraq,Norway,1.0,4.0,True,openfootball,
+2026,Matchday 12,Group I,2026-06-22,France,Iraq,3.0,0.0,True,openfootball,
+2026,Matchday 12,Group I,2026-06-22,Norway,Senegal,3.0,2.0,True,openfootball,
+2026,Matchday 16,Group I,2026-06-26,Norway,France,1.0,4.0,True,openfootball,
+2026,Matchday 16,Group I,2026-06-26,Senegal,Iraq,5.0,0.0,True,openfootball,
+2026,Matchday 6,Group J,2026-06-16,Argentina,Algeria,3.0,0.0,True,openfootball,
+2026,Matchday 6,Group J,2026-06-16,Austria,Jordan,3.0,1.0,True,openfootball,
+2026,Matchday 12,Group J,2026-06-22,Argentina,Austria,2.0,0.0,True,openfootball,
+2026,Matchday 12,Group J,2026-06-22,Jordan,Algeria,1.0,2.0,True,openfootball,
+2026,Matchday 17,Group J,2026-06-27,Algeria,Austria,3.0,3.0,True,openfootball,
+2026,Matchday 17,Group J,2026-06-27,Jordan,Argentina,1.0,3.0,True,openfootball,
+2026,Matchday 7,Group K,2026-06-17,Portugal,DR Congo,1.0,1.0,True,openfootball,
+2026,Matchday 7,Group K,2026-06-17,Uzbekistan,Colombia,1.0,3.0,True,openfootball,
+2026,Matchday 13,Group K,2026-06-23,Portugal,Uzbekistan,5.0,0.0,True,openfootball,
+2026,Matchday 13,Group K,2026-06-23,Colombia,DR Congo,1.0,0.0,True,openfootball,
+2026,Matchday 17,Group K,2026-06-27,Colombia,Portugal,0.0,0.0,True,openfootball,
+2026,Matchday 17,Group K,2026-06-27,DR Congo,Uzbekistan,3.0,1.0,True,openfootball,
+2026,Matchday 7,Group L,2026-06-17,England,Croatia,4.0,2.0,True,openfootball,
+2026,Matchday 7,Group L,2026-06-17,Ghana,Panama,1.0,0.0,True,openfootball,
+2026,Matchday 13,Group L,2026-06-23,England,Ghana,0.0,0.0,True,openfootball,
+2026,Matchday 13,Group L,2026-06-23,Panama,Croatia,0.0,1.0,True,openfootball,
+2026,Matchday 17,Group L,2026-06-27,Panama,England,0.0,2.0,True,openfootball,
+2026,Matchday 17,Group L,2026-06-27,Croatia,Ghana,2.0,1.0,True,openfootball,
+2026,Matchday 1,A,2026-06-11,South Korea,Czechia,2.0,1.0,True,openfootball,
+2026,Matchday 8,A,2026-06-18,Czechia,South Africa,1.0,1.0,True,openfootball,
+2026,Matchday 14,A,2026-06-24,Czechia,Mexico,0.0,3.0,True,openfootball,
+2026,Matchday 2,B,2026-06-12,Canada,Bosnia-Herzegovina,1.0,1.0,True,openfootball,
+2026,Matchday 8,B,2026-06-18,Switzerland,Bosnia-Herzegovina,4.0,1.0,True,openfootball,
+2026,Matchday 14,B,2026-06-24,Bosnia-Herzegovina,Qatar,3.0,1.0,True,openfootball,
+2026,Matchday 5,H,2026-06-15,Spain,Cabo Verde,0.0,0.0,True,openfootball,
+2026,Matchday 11,H,2026-06-21,Uruguay,Cabo Verde,2.0,2.0,True,openfootball,
+2026,Matchday 16,H,2026-06-26,Cabo Verde,Saudi Arabia,0.0,0.0,True,openfootball,
+2026,R32,,2026-06-28,South Africa,Canada,0.0,1.0,True,openfootball,Canada
+2026,R32,,2026-06-29,Germany,Paraguay,1.0,1.0,True,openfootball,Paraguay
+2026,R32,,2026-06-29,Netherlands,Morocco,1.0,1.0,True,openfootball,Morocco
+2026,R32,,2026-06-29,Brazil,Japan,2.0,1.0,True,openfootball,Brazil
+2026,R32,,2026-06-30,France,Sweden,3.0,0.0,True,openfootball,France
+2026,R32,,2026-06-30,Ivory Coast,Norway,1.0,2.0,True,openfootball,Norway
+2026,R32,,2026-06-30,Mexico,Ecuador,2.0,0.0,True,openfootball,Mexico
+2026,R32,,2026-07-01,England,DR Congo,2.0,1.0,True,openfootball,England
+2026,R32,,2026-07-01,USA,Bosnia-Herzegovina,2.0,0.0,True,openfootball,USA
+2026,R32,,2026-07-01,Belgium,Senegal,2.0,2.0,True,openfootball,Belgium
+2026,R32,,2026-07-02,Portugal,Croatia,2.0,1.0,True,openfootball,Portugal
+2026,R32,,2026-07-02,Spain,Austria,3.0,0.0,True,openfootball,Spain
+2026,R32,,2026-07-02,Switzerland,Algeria,2.0,0.0,True,openfootball,Switzerland
+2026,R32,,2026-07-03,Argentina,Cabo Verde,1.0,1.0,True,openfootball,Argentina
+2026,R32,,2026-07-03,Colombia,Ghana,1.0,0.0,True,openfootball,Colombia
+2026,R32,,2026-07-03,Australia,Egypt,1.0,1.0,True,openfootball,Egypt
+2026,R16,,2026-07-04,Paraguay,France,0.0,1.0,True,openfootball,France
+2026,R16,,2026-07-04,Canada,Morocco,0.0,3.0,True,openfootball,Morocco

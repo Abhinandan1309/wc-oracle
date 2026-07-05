@@ -1,0 +1,487 @@
+{
+  "Mexico": {
+    "group": "A",
+    "GroupExit": 0.0,
+    "R32": 0.6889,
+    "R16": 0.4048,
+    "QF": 0.1888,
+    "SF": 0.0806,
+    "Final": 0.0806,
+    "Winner": 0.0384
+  },
+  "South Africa": {
+    "group": "A",
+    "GroupExit": 0.0109,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "South Korea": {
+    "group": "A",
+    "GroupExit": 0.0,
+    "R32": 0.2761,
+    "R16": 0.0966,
+    "QF": 0.02,
+    "SF": 0.0071,
+    "Final": 0.0071,
+    "Winner": 0.0016
+  },
+  "Czechia": {
+    "group": "A",
+    "GroupExit": 1.0,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Canada": {
+    "group": "B",
+    "GroupExit": 0.0,
+    "R32": 0.3177,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Qatar": {
+    "group": "B",
+    "GroupExit": 0.9999,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Switzerland": {
+    "group": "B",
+    "GroupExit": 0.0,
+    "R32": 0.5533,
+    "R16": 0.2725,
+    "QF": 0.1111,
+    "SF": 0.0407,
+    "Final": 0.0407,
+    "Winner": 0.0174
+  },
+  "Bosnia-Herzegovina": {
+    "group": "B",
+    "GroupExit": 0.0001,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Brazil": {
+    "group": "C",
+    "GroupExit": 0.0,
+    "R32": 0.7494,
+    "R16": 0.5825,
+    "QF": 0.4118,
+    "SF": 0.2359,
+    "Final": 0.2359,
+    "Winner": 0.1468
+  },
+  "Scotland": {
+    "group": "C",
+    "GroupExit": 1.0,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Morocco": {
+    "group": "C",
+    "GroupExit": 0.0,
+    "R32": 0.29,
+    "R16": 0.0781,
+    "QF": 0.0327,
+    "SF": 0.0157,
+    "Final": 0.0157,
+    "Winner": 0.0046
+  },
+  "Haiti": {
+    "group": "C",
+    "GroupExit": 1.0,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "USA": {
+    "group": "D",
+    "GroupExit": 0.0,
+    "R32": 0.5311,
+    "R16": 0.1563,
+    "QF": 0.0666,
+    "SF": 0.0197,
+    "Final": 0.0197,
+    "Winner": 0.0069
+  },
+  "Australia": {
+    "group": "D",
+    "GroupExit": 0.0,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Turkey": {
+    "group": "D",
+    "GroupExit": 1.0,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Paraguay": {
+    "group": "D",
+    "GroupExit": 0.0207,
+    "R32": 0.3127,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Germany": {
+    "group": "E",
+    "GroupExit": 0.0,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Ecuador": {
+    "group": "E",
+    "GroupExit": 0.0,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Ivory Coast": {
+    "group": "E",
+    "GroupExit": 0.0,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Curacao": {
+    "group": "E",
+    "GroupExit": 1.0,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Netherlands": {
+    "group": "F",
+    "GroupExit": 0.0,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Sweden": {
+    "group": "F",
+    "GroupExit": 0.0,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Tunisia": {
+    "group": "F",
+    "GroupExit": 1.0,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Japan": {
+    "group": "F",
+    "GroupExit": 0.0,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Belgium": {
+    "group": "G",
+    "GroupExit": 0.0,
+    "R32": 0.6764,
+    "R16": 0.3469,
+    "QF": 0.1349,
+    "SF": 0.0636,
+    "Final": 0.0636,
+    "Winner": 0.0296
+  },
+  "Iran": {
+    "group": "G",
+    "GroupExit": 1.0,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "New Zealand": {
+    "group": "G",
+    "GroupExit": 1.0,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Egypt": {
+    "group": "G",
+    "GroupExit": 0.0,
+    "R32": 0.3927,
+    "R16": 0.1727,
+    "QF": 0.0594,
+    "SF": 0.0141,
+    "Final": 0.0141,
+    "Winner": 0.0034
+  },
+  "Spain": {
+    "group": "H",
+    "GroupExit": 0.0,
+    "R32": 0.7054,
+    "R16": 0.4255,
+    "QF": 0.1847,
+    "SF": 0.0978,
+    "Final": 0.0978,
+    "Winner": 0.0515
+  },
+  "Saudi Arabia": {
+    "group": "H",
+    "GroupExit": 0.9352,
+    "R32": 0.0221,
+    "R16": 0.0073,
+    "QF": 0.0019,
+    "SF": 0.0003,
+    "Final": 0.0003,
+    "Winner": 0.0001
+  },
+  "Uruguay": {
+    "group": "H",
+    "GroupExit": 0.512,
+    "R32": 0.3083,
+    "R16": 0.1749,
+    "QF": 0.0812,
+    "SF": 0.0268,
+    "Final": 0.0268,
+    "Winner": 0.0089
+  },
+  "Cabo Verde": {
+    "group": "H",
+    "GroupExit": 0.5212,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "France": {
+    "group": "I",
+    "GroupExit": 0.0,
+    "R32": 0.8495,
+    "R16": 0.5626,
+    "QF": 0.4123,
+    "SF": 0.3175,
+    "Final": 0.3175,
+    "Winner": 0.1926
+  },
+  "Senegal": {
+    "group": "I",
+    "GroupExit": 1.0,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Norway": {
+    "group": "I",
+    "GroupExit": 0.0,
+    "R32": 0.6044,
+    "R16": 0.2861,
+    "QF": 0.169,
+    "SF": 0.0607,
+    "Final": 0.0607,
+    "Winner": 0.021
+  },
+  "Iraq": {
+    "group": "I",
+    "GroupExit": 1.0,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Argentina": {
+    "group": "J",
+    "GroupExit": 0.0,
+    "R32": 0.71,
+    "R16": 0.3184,
+    "QF": 0.2053,
+    "SF": 0.1399,
+    "Final": 0.1399,
+    "Winner": 0.0701
+  },
+  "Algeria": {
+    "group": "J",
+    "GroupExit": 0.0,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Austria": {
+    "group": "J",
+    "GroupExit": 0.0,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Jordan": {
+    "group": "J",
+    "GroupExit": 1.0,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Portugal": {
+    "group": "K",
+    "GroupExit": 0.0,
+    "R32": 0.5298,
+    "R16": 0.3085,
+    "QF": 0.1962,
+    "SF": 0.0787,
+    "Final": 0.0787,
+    "Winner": 0.0312
+  },
+  "DR Congo": {
+    "group": "K",
+    "GroupExit": 0.0,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Uzbekistan": {
+    "group": "K",
+    "GroupExit": 1.0,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Colombia": {
+    "group": "K",
+    "GroupExit": 0.0,
+    "R32": 0.6823,
+    "R16": 0.3739,
+    "QF": 0.1371,
+    "SF": 0.0789,
+    "Final": 0.0789,
+    "Winner": 0.0309
+  },
+  "England": {
+    "group": "L",
+    "GroupExit": 0.0,
+    "R32": 0.7087,
+    "R16": 0.4039,
+    "QF": 0.1519,
+    "SF": 0.0903,
+    "Final": 0.0903,
+    "Winner": 0.0369
+  },
+  "Croatia": {
+    "group": "L",
+    "GroupExit": 0.0,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Ghana": {
+    "group": "L",
+    "GroupExit": 0.0,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "Panama": {
+    "group": "L",
+    "GroupExit": 1.0,
+    "R32": 0.0,
+    "R16": 0.0,
+    "QF": 0.0,
+    "SF": 0.0,
+    "Final": 0.0,
+    "Winner": 0.0
+  },
+  "_meta": {
+    "n_simulations": 100000,
+    "elapsed_seconds": 357.2,
+    "played_matches": 75
+  }
+}

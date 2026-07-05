@@ -1,0 +1,172 @@
+{
+  "Final": [],
+  "SF": [],
+  "R16": [
+    {
+      "home": "Paraguay",
+      "away": "France",
+      "home_score": 0,
+      "away_score": 1,
+      "winner": "France",
+      "loser": "Paraguay",
+      "date": "2026-07-04"
+    },
+    {
+      "home": "Canada",
+      "away": "Morocco",
+      "home_score": 0,
+      "away_score": 3,
+      "winner": "Morocco",
+      "loser": "Canada",
+      "date": "2026-07-04"
+    }
+  ],
+  "QF": [],
+  "3rd": [],
+  "R32": [
+    {
+      "home": "South Africa",
+      "away": "Canada",
+      "home_score": 0,
+      "away_score": 1,
+      "winner": "Canada",
+      "loser": "South Africa",
+      "date": "2026-06-28"
+    },
+    {
+      "home": "Germany",
+      "away": "Paraguay",
+      "home_score": 1,
+      "away_score": 1,
+      "winner": "Paraguay",
+      "loser": "Germany",
+      "date": "2026-06-29"
+    },
+    {
+      "home": "Netherlands",
+      "away": "Morocco",
+      "home_score": 1,
+      "away_score": 1,
+      "winner": "Morocco",
+      "loser": "Netherlands",
+      "date": "2026-06-29"
+    },
+    {
+      "home": "Brazil",
+      "away": "Japan",
+      "home_score": 2,
+      "away_score": 1,
+      "winner": "Brazil",
+      "loser": "Japan",
+      "date": "2026-06-29"
+    },
+    {
+      "home": "France",
+      "away": "Sweden",
+      "home_score": 3,
+      "away_score": 0,
+      "winner": "France",
+      "loser": "Sweden",
+      "date": "2026-06-30"
+    },
+    {
+      "home": "Ivory Coast",
+      "away": "Norway",
+      "home_score": 1,
+      "away_score": 2,
+      "winner": "Norway",
+      "loser": "Ivory Coast",
+      "date": "2026-06-30"
+    },
+    {
+      "home": "Mexico",
+      "away": "Ecuador",
+      "home_score": 2,
+      "away_score": 0,
+      "winner": "Mexico",
+      "loser": "Ecuador",
+      "date": "2026-06-30"
+    },
+    {
+      "home": "England",
+      "away": "DR Congo",
+      "home_score": 2,
+      "away_score": 1,
+      "winner": "England",
+      "loser": "DR Congo",
+      "date": "2026-07-01"
+    },
+    {
+      "home": "USA",
+      "away": "Bosnia-Herzegovina",
+      "home_score": 2,
+      "away_score": 0,
+      "winner": "USA",
+      "loser": "Bosnia-Herzegovina",
+      "date": "2026-07-01"
+    },
+    {
+      "home": "Belgium",
+      "away": "Senegal",
+      "home_score": 2,
+      "away_score": 2,
+      "winner": "Belgium",
+      "loser": "Senegal",
+      "date": "2026-07-01"
+    },
+    {
+      "home": "Portugal",
+      "away": "Croatia",
+      "home_score": 2,
+      "away_score": 1,
+      "winner": "Portugal",
+      "loser": "Croatia",
+      "date": "2026-07-02"
+    },
+    {
+      "home": "Spain",
+      "away": "Austria",
+      "home_score": 3,
+      "away_score": 0,
+      "winner": "Spain",
+      "loser": "Austria",
+      "date": "2026-07-02"
+    },
+    {
+      "home": "Switzerland",
+      "away": "Algeria",
+      "home_score": 2,
+      "away_score": 0,
+      "winner": "Switzerland",
+      "loser": "Algeria",
+      "date": "2026-07-02"
+    },
+    {
+      "home": "Argentina",
+      "away": "Cabo Verde",
+      "home_score": 1,
+      "away_score": 1,
+      "winner": "Argentina",
+      "loser": "Cabo Verde",
+      "date": "2026-07-03"
+    },
+    {
+      "home": "Colombia",
+      "away": "Ghana",
+      "home_score": 1,
+      "away_score": 0,
+      "winner": "Colombia",
+      "loser": "Ghana",
+      "date": "2026-07-03"
+    },
+    {
+      "home": "Australia",
+      "away": "Egypt",
+      "home_score": 1,
+      "away_score": 1,
+      "winner": "Egypt",
+      "loser": "Australia",
+      "date": "2026-07-03"
+    }
+  ]
+}

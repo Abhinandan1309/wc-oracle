@@ -1,0 +1,46 @@
+stage,group,home_team,away_team,p_home_win,p_draw,p_away_win,predicted_result
+Matchday 8,Group A,Czechia,South Africa,0.4925,0.3116,0.1959,2
+Matchday 14,Group A,Czechia,Mexico,0.4793,0.2484,0.2723,2
+Matchday 8,Group B,Switzerland,Bosnia-Herzegovina,0.4757,0.2349,0.2894,2
+Matchday 14,Group B,Bosnia-Herzegovina,Qatar,0.4451,0.2087,0.3461,2
+Matchday 11,Group H,Uruguay,Cabo Verde,0.5015,0.2926,0.2059,2
+Matchday 16,Group H,Cabo Verde,Saudi Arabia,0.628,0.2045,0.1675,2
+Round of 32,,2A,2B,0.5482,0.204,0.2478,2
+Round of 32,,1E,3A/B/C/D/F,0.5482,0.204,0.2478,2
+Round of 32,,1F,2C,0.5482,0.204,0.2478,2
+Round of 32,,1C,2F,0.5482,0.204,0.2478,2
+Round of 32,,1I,3C/D/F/G/H,0.5482,0.204,0.2478,2
+Round of 32,,2E,2I,0.5482,0.204,0.2478,2
+Round of 32,,1A,3C/E/F/H/I,0.5482,0.204,0.2478,2
+Round of 32,,1L,3E/H/I/J/K,0.5482,0.204,0.2478,2
+Round of 32,,1D,3B/E/F/I/J,0.5482,0.204,0.2478,2
+Round of 32,,1G,3A/E/H/I/J,0.5482,0.204,0.2478,2
+Round of 32,,2K,2L,0.5482,0.204,0.2478,2
+Round of 32,,1H,2J,0.5482,0.204,0.2478,2
+Round of 32,,1B,3E/F/G/I/J,0.5482,0.204,0.2478,2
+Round of 32,,1J,2H,0.5482,0.204,0.2478,2
+Round of 32,,1K,3D/E/I/J/L,0.5482,0.204,0.2478,2
+Round of 32,,2D,2G,0.5482,0.204,0.2478,2
+Round of 16,,W74,W77,0.5482,0.204,0.2478,2
+Round of 16,,W73,W75,0.5482,0.204,0.2478,2
+Round of 16,,W76,W78,0.5482,0.204,0.2478,2
+Round of 16,,W79,W80,0.5482,0.204,0.2478,2
+Round of 16,,W83,W84,0.5482,0.204,0.2478,2
+Round of 16,,W81,W82,0.5482,0.204,0.2478,2
+Round of 16,,W86,W88,0.5482,0.204,0.2478,2
+Round of 16,,W85,W87,0.5482,0.204,0.2478,2
+Quarter-final,,W89,W90,0.5482,0.204,0.2478,2
+Quarter-final,,W93,W94,0.5482,0.204,0.2478,2
+Quarter-final,,W91,W92,0.5482,0.204,0.2478,2
+Quarter-final,,W95,W96,0.5482,0.204,0.2478,2
+Semi-final,,W97,W98,0.5482,0.204,0.2478,2
+Semi-final,,W99,W100,0.5482,0.204,0.2478,2
+Match for third place,,L101,L102,0.5482,0.204,0.2478,2
+Final,,W101,W102,0.5482,0.204,0.2478,2
+R16,,Canada,W75,0.2766,0.172,0.5514,0
+R16,,Brazil,Norway,0.7018,0.1755,0.1226,2
+R16,,Mexico,England,0.2126,0.2584,0.529,0
+R16,,USA,Belgium,0.2975,0.2311,0.4715,0
+R16,,Portugal,Spain,0.4531,0.2399,0.307,2
+R16,,Argentina,Egypt,0.8232,0.1054,0.0714,2
+R16,,Switzerland,Colombia,0.2863,0.1676,0.5462,0

@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+
+# Node / React
+node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/coverage/
+.npm/
+
+# Logs (regenerated at runtime)
+data/live/scraper.log
+data/live/scheduler.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Misc
+*.bak
+*.tmp

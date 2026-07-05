@@ -1,0 +1,17 @@
+year,stage,group,date,home_team,away_team,home_score,away_score,tournament,source,played
+2026,Matchday 1,Group A,2026-06-11,Mexico,South Africa,2,0,FIFA World Cup,openfootball,True
+2026,Matchday 1,Group A,2026-06-11,South Korea,Czech Republic,2,1,FIFA World Cup,openfootball,True
+2026,Matchday 2,Group B,2026-06-12,Canada,Bosnia & Herzegovina,1,1,FIFA World Cup,openfootball,True
+2026,Matchday 3,Group B,2026-06-13,Qatar,Switzerland,1,1,FIFA World Cup,openfootball,True
+2026,Matchday 3,Group C,2026-06-13,Brazil,Morocco,1,1,FIFA World Cup,openfootball,True
+2026,Matchday 3,Group C,2026-06-13,Haiti,Scotland,0,1,FIFA World Cup,openfootball,True
+2026,Matchday 2,Group D,2026-06-12,USA,Paraguay,4,1,FIFA World Cup,openfootball,True
+2026,Matchday 3,Group D,2026-06-13,Australia,Turkey,2,0,FIFA World Cup,openfootball,True
+2026,Matchday 4,Group E,2026-06-14,Germany,Curaçao,7,1,FIFA World Cup,openfootball,True
+2026,Matchday 4,Group E,2026-06-14,Ivory Coast,Ecuador,1,0,FIFA World Cup,openfootball,True
+2026,Matchday 4,Group F,2026-06-14,Netherlands,Japan,2,2,FIFA World Cup,openfootball,True
+2026,Matchday 4,Group F,2026-06-14,Sweden,Tunisia,5,1,FIFA World Cup,openfootball,True
+2026,Matchday 5,Group G,2026-06-15,Belgium,Egypt,1,1,FIFA World Cup,openfootball,True
+2026,Matchday 5,Group G,2026-06-15,Iran,New Zealand,2,2,FIFA World Cup,openfootball,True
+2026,Matchday 5,Group H,2026-06-15,Spain,Cape Verde,0,0,FIFA World Cup,openfootball,True
+2026,Matchday 5,Group H,2026-06-15,Saudi Arabia,Uruguay,1,1,FIFA World Cup,openfootball,True
